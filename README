@@ -1,6 +1,6 @@
-#Can the accuracy of the Rebound Method for testing concrete Strenght be improved?
+# Can the accuracy of the Rebound Method for testing concrete Strenght be improved?
 
-##Introduction
+## Introduction
 
 In this work, I use machine learning to try to improve the concrete strength prediction made by using the rebound method with the Schmidt Hammer. Given the fact that the rebound hammer provides a quick, inexpensive mean of checking the uniformity of concrete, it's limitations make this non destructive test unreliable to predict the concrete strength. But, do the limitations come only from the device and the method itself? Is there a way to include some of the known parameters that affect the test in the calibration procedure in order to reduce uncertanty?
 
