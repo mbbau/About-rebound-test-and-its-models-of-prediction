@@ -2,7 +2,7 @@
 
 ## Introduction
 
-(Note: in dark mode some of the information in the visualizations will not be watched, I will fix this in the future) 
+Note: Some of the information in the charts will not be displayed properly in dark mode. I will fix this issue in the future.
 
 In this work, I use machine learning to try to improve the concrete strength prediction made by using the rebound method with the Schmidt Hammer. Given the fact that the rebound hammer provides a quick and inexpensive mean of checking the uniformity of concrete, it's limitations make this non destructive test unreliable to predict the concrete strength. But, do the limitations come only from the device and the method itself? Is there a way to include some of the known parameters that affect the test in the calibration procedure in order to reduce uncertanty? Is there a better model to calibrate it? 
 
