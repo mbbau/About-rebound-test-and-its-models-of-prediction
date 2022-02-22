@@ -23,7 +23,7 @@ If we compute the residuals for this method and make a histogram of it, it shows
 
 ![Residuals for linear regression model](https://user-images.githubusercontent.com/61053776/154717401-e2bb67b1-64af-4f0c-83cd-46acecb8605b.png)
 
-From the graph we can infer that with enough samples, the error will tend to zero, but how many test are enough? and at what cost do we want to olwer the error?  Nevertheles the RSME (root square mean error) converge to 4, regardless of the nunver of test we perform, as shown in the next figure.
+From the graph we can infer that with enough samples, the error will tend to zero, but how many test are enough? and at what cost do we want to lower the error?  Nevertheles the RSME (root square mean error) converge to 4, regardless of the number of test we perform, as shown in the next figure.
 
 ![Learning curve - Linear regression RMSE](https://user-images.githubusercontent.com/61053776/154720295-b8eb1a07-1412-405d-9fe4-d47a2ca838c1.png)
 
